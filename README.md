@@ -114,8 +114,6 @@ assign d6 = (a&b&~c);
 assign d7 = (a&b&c);
 endmodule
 ```
-
-
 ### RTL LOGIC:
 
 ## ENCODER:
